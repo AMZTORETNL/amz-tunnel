@@ -71,7 +71,7 @@ while true; do
     if [ "$pilihan" == "1" ]; then
         read -sp "Masukkan Password Owner: " password
         echo
-        if [ "$password" == "@sandi" ]; then
+        if [ "$password" == "@adminamz" ]; then
             echo -e "${GB}Selamat Datang Tuan${NC}"
             mkdir -p /etc/xray/
             touch /etc/xray/admin
