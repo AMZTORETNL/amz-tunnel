@@ -54,7 +54,7 @@ verif_ip() {
         echo "     Anda Belum Terdaftar Untuk"
         echo "   Menggunakan Script ini. Silahkan"
         echo "            Registrasi ke"
-        echo "  Tele : Sanmaxx | Wa : 085155208019"
+        echo "  Tele : amztore20 | Wa : 085219339409"
         echo "————————————————————————————————————"
         exit 1
     fi
