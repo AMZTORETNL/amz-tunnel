@@ -37,7 +37,7 @@ status_ip() {
         echo "     IP Anda Belum Terdaftar/Expired Untuk"
         echo "        Menggunakan Script ini Silahkan "
         echo "                Registrasi ke "
-        echo "     Tele : Sanmaxx | Wa : 085155208019"
+        echo "     Tele : amztore20 | Wa : 085219339409"
         echo "——————————————————————————————"
         exit 1
     fi
@@ -70,7 +70,7 @@ status_ip() {
         echo "${GB}     IP Anda Belum Terdaftar/Expired Untuk"
         echo "   Menggunakan Script ini Silahkan "
         echo "            Registrasi ke ${NC}"
-        echo "  Tele : Sanmaxx | Wa : 085155208019"
+        echo "  Tele : amztore20 | Wa : 085219339409"
         echo "————————————————————————————————————"
         exit 1
     else
